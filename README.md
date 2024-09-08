@@ -26,7 +26,6 @@ A important part of the training process is the dataset. It must be in a suitabl
 
 3. **Evaluation**:
    - Evaluate the performance using two evaluation metrics
-   - Metrics: - Accuracy
-              - Confusion Matrix
+   - Metrics:  Accuracy and Confusion Matrix
 
 
